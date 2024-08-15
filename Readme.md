@@ -1,4 +1,4 @@
-README file
+
 All the code is structured as follows:
 - Background folder contains the code related to the background RL learning and is structured by the algorithm being applied, QL, DQN and A2C. Each of them contains a folder
   for each of the environments proposed, along with a readme file for each of them.
