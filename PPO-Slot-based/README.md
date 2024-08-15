@@ -1,0 +1,1 @@
+This folder contains the PPO algorithm implementation for the Highway environment proposed. As well as the class with the environment and the agent trained and tested for. In order to execute these files, jut only need to download both of the files and execute the jupyter notebook file, this imports the class of the .py environment.
